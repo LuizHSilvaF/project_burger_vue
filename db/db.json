@@ -140,6 +140,28 @@
       "opcionais": [],
       "status": "Solicitado",
       "id": 7
+    },
+    {
+      "nome": "Luiz",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 8
+    },
+    {
+      "nome": "Luiz Henrique Silva Fernandes",
+      "carne": "Veggie burger",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 9
     }
   ]
 }

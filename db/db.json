@@ -87,29 +87,28 @@
         "Bacon",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
-      "nome": "Luiz Henrique Silva Fernandes",
+      "nome": "Henrique",
       "carne": "Maminha",
       "pao": "Italiano Branco",
       "opcionais": [
-        "Bacon",
-        "Cheddar"
+        "Salame",
+        "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 2
     },
     {
-      "nome": "Pedro",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
+      "nome": "Luiz",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
       "opcionais": [
-        "Bacon",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 3
     }
   ]
